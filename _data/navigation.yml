@@ -1,9 +1,7 @@
 links:
 - name: Portfolio
   link: /portfolio/
-- name: Blog
-  link: /blog/
-- name: About
+- name: A propos
   link: /about/
 - name: Contact
   link: /contact/
