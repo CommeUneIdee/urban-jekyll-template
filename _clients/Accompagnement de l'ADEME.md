@@ -5,6 +5,8 @@ external_url: wiki.lafabriquedesmobilites.fr
 image_path: /images/clients/fabmob.png
 ---
 
+Partenaire : L'ADEME
+
 Accompagnement à la question des “communs” de la Fabrique des Mobilités : http://wiki.lafabriquedesmobilites.fr/wiki/Communs
 
 Mise en place de la plateforme contributive de la Fabrique des Mobilités : http://wiki.lafabriquedesmobilites.fr
