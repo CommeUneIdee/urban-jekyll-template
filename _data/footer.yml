@@ -2,23 +2,15 @@
   links:
     - name: Accueil
       link: /
-    - name: Portfolio
+    - name: Références
       link: /portfolio
     - name: A propos
       link: /about/
     - name: Contact
       link: /contact/
-- title: Social
+- title: Infos
   links:
-    - name: Facebook (bientôt)
-      link:
-      social_icon: Facebook
-      new_window: true
-    - name: Twitter (bientôt)
-      link:
-      social_icon: Twitter
-      new_window: true
-    - name: LinkedIn (bientôt)
-      link:
-      social_icon: LinkedIn
-      new_window: true
+    - name: Mail
+      link: contact@commeuneidee.org
+    - name: Telephone
+      link: 0782752983
