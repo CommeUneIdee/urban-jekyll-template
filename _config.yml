@@ -2,7 +2,7 @@ title: Urban Template
 url: "http://commeuneidee.github.io"
 baseurl:
 google_analytics_key:
-google_maps_javascript_api_key: AIzaSyDvzSqI6_WPPXRdN6NpYylPEIQHoqIbupY
+google_maps_javascript_api_key: AIzaSyDGDeKPm4atDMhgOElI6BEwUZOdHbJzMC4
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
