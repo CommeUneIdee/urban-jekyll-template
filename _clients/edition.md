@@ -1,70 +1,14 @@
 ---
-name: Edition Template
-subtitle: Product documentation template for Jekyll
-external_url: https://github.com/CloudCannon/edition-jekyll-template
-image_path: /images/clients/edition.png
+name: Les communs de la Fabrique des Mobilités
+subtitle: Accompagnement à la mise en place de la dynamique contributives et à l'outillage autour des communs
+external_url: wiki.lafabriquedesmobilites.fr
+image_path: /images/clients/fabmob.png
 ---
 
-Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
-Start documenting your product, application, service or website with this configurable theme.
+Accompagnement à la question des “communs” de la Fabrique des Mobilités : http://wiki.lafabriquedesmobilites.fr/wiki/Communs
 
-Edition was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-Find more templates and themes at [Jekyll Tips](http://jekyll.tips/templates/).
+Mise en place de la plateforme contributive de la Fabrique des Mobilités : http://wiki.lafabriquedesmobilites.fr
+ 
+Participation au deux livres blancs de la FabMob.
 
-Learn Jekyll with step-by-step tutorials and videos at [Jekyll Tips](http://jekyll.tips/).
-
-## Features
-
-* Two column layout
-* Full text search
-* Pre-styled components
-* Auto-generated navigation based on category
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* Change log
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
-
-## Setup
-
-1. Add your site and author details in `_config.yml`.
-2. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
-
-## Develop
-
-Edition was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
-
-Install the dependencies with [Bundler](http://bundler.io/):
-
-~~~bash
-$ bundle install
-~~~
-
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
-
-~~~bash
-$ bundle exec jekyll serve
-~~~
-
-## Editing
-
-Edition is already optimised for adding, updating and removing documentation pages in CloudCannon.
-
-### Documentation pages
-
-* Add, update or remove a documentation page in the *Documentation* collection.
-* Change the category of a documentation page to move it to another section in the navigation.
-* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
-
-### Change log
-
-* Add, update or remove change log entries from your posts.
-* Tag entries as minor or major in the front matter.
-
-### Search
-
-* Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
-
-### Navigation
-
-* Change `site.show_full_navigation` to control all or only the current navigation group being open.
+Animation et accompagnement à la création de communautés autour des communs de la mobilité.
