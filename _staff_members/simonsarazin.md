@@ -1,6 +1,6 @@
 ---
 name: Simon Sarazin
 position: 
-image_path: "https://pbs.twimg.com/profile_images/3330430716/9d435d61275384a6e3b713a6d498460a_400x400.jpeg"
+image_path: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Roumics_2014_Lille_Simon_Sarazin_3.JPG"
 twitter: simons_fr
 ---
