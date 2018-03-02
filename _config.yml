@@ -1,12 +1,12 @@
 title: Comme Une Idée
 url: "http://commeuneidee.github.io"
-baseurl:
+baseurl: 
 google_analytics_key:
 google_maps_javascript_api_key: AIzaSyDGDeKPm4atDMhgOElI6BEwUZOdHbJzMC4
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Jekyll template with example content for a web agency.
+description: Accompagnement à la création de communs et aux dynamiques contributives
 
 # Author details for the jekyll-seo-tag gem
 author:
@@ -16,9 +16,8 @@ author:
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Urban Template
+  name: Comme Une Idée
   links:
-    - https://github.com/CloudCannon/urban-jekyll-template
 
 timezone: Etc/UTC
 
