@@ -1,4 +1,4 @@
-title: Urban Template
+title: Comme Une Idée
 url: "http://commeuneidee.github.io"
 baseurl:
 google_analytics_key:
@@ -41,6 +41,8 @@ plugins:
   - "jekyll-seo-tag"
   - "jekyll-paginate"
   - "jekyll-archives"
+  - "jekyll-sitemap"
+
 
 exclude:
   - Gemfile
